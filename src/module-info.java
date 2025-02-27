@@ -1,0 +1,2 @@
+module testL2 {
+}
